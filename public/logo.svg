@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="FutureLife AI logo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a798ff"/>
+      <stop offset="1" stop-color="#5a4fb8"/>
+    </linearGradient>
+    <linearGradient id="path" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="60" fill="url(#bg)"/>
+  <circle cx="128" cy="128" r="96" fill="none" stroke="#ffffff" stroke-opacity=".14" stroke-width="2"/>
+  <path d="M62 182 C 96 182, 104 138, 134 124 S 172 108, 180 84" fill="none" stroke="url(#path)" stroke-width="15" stroke-linecap="round"/>
+  <circle cx="62" cy="182" r="9" fill="#ffffff"/>
+  <path d="M184 36 Q189 68 222 74 Q189 80 184 112 Q179 80 146 74 Q179 68 184 36 Z" fill="#ffffff"/>
+  <circle cx="82" cy="70" r="5" fill="#ffffff" fill-opacity=".7"/>
+  <circle cx="214" cy="170" r="4" fill="#ffffff" fill-opacity=".5"/>
+</svg>
